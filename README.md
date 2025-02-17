@@ -5,6 +5,6 @@
 <hr>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f951fafd-e5a9-4847-9b03-5497b81a65da" alt="Synthwave">
+  <img src="https://github.com/user-attachments/assets/cede6606-8ec6-442a-88bf-01bb523ed3e5" alt="Lofi Boy in Train">
 </div>
 
