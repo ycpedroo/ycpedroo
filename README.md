@@ -5,7 +5,6 @@
 <hr>
 
 <div align="center">
-  <img width="800px" height="500px" src="https://github.com/user-attachments/assets/f951fafd-e5a9-4847-9b03-5497b81a65da" alt="Synthwave">
+  <img src="https://github.com/user-attachments/assets/f951fafd-e5a9-4847-9b03-5497b81a65da" alt="Synthwave">
 </div>
 
-<hr>
