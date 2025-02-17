@@ -4,7 +4,4 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cede6606-8ec6-442a-88bf-01bb523ed3e5" alt="Lofi Boy in Train">
-</div>
-
+![Image](https://github.com/user-attachments/assets/cede6606-8ec6-442a-88bf-01bb523ed3e5)
