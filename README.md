@@ -7,7 +7,7 @@
 <hr />
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4518a351-77cb-4eaa-858f-bdb7231ec8d0" />
+  <img width="500px" src="https://github.com/user-attachments/assets/4518a351-77cb-4eaa-858f-bdb7231ec8d0" />
 </div>
 
 <hr />
@@ -16,8 +16,8 @@
   <details open>
     <summary><h2><b><i>My GitHub Stats✨<b><i></h2></summary>
       <div style="margin: auto;">
-        <img width="420px" src="https://ycpedroo-github-readme-stats.vercel.app/api?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&include_all_commits=true">
-        <img width="375px" src="https://ycpedroo-github-readme-stats.vercel.app/api/top-langs?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&layout=compact&custom_title=Tools">
+        <img height="220px" src="https://ycpedroo-github-readme-stats.vercel.app/api?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&include_all_commits=true">
+        <img height="220px" src="https://ycpedroo-github-readme-stats.vercel.app/api/top-langs?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&layout=compact&custom_title=Languages">
       </div>
   </details>
 </div>
