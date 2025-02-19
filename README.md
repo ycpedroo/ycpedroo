@@ -16,8 +16,8 @@
   <details open>
     <summary><h2><b><i>My GitHub Stats✨<b><i></h2></summary>
       <div style="margin: auto;">
-        <img width="400px" src="https://ycpedroo-github-readme-stats.vercel.app/api?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&include_all_commits=true">
-        <img width="358px" src="https://ycpedroo-github-readme-stats.vercel.app/api/top-langs?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&layout=compact">
+        <img width="380px" src="https://ycpedroo-github-readme-stats.vercel.app/api?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&include_all_commits=true">
+        <img width="340px" src="https://ycpedroo-github-readme-stats.vercel.app/api/top-langs?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&layout=compact">
       </div>
   </details>
 </div>
