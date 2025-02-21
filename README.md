@@ -7,19 +7,19 @@
 <hr />
 
 <div align="center">
-  <img width="500px" src="https://github.com/user-attachments/assets/4518a351-77cb-4eaa-858f-bdb7231ec8d0" />
+  <img width="600px" src="https://github.com/user-attachments/assets/4518a351-77cb-4eaa-858f-bdb7231ec8d0" />
 </div>
 
 <hr />
 
 <div align="center">
-  <details open>
-    <summary><h2><b><i>My GitHub Stats✨<b><i></h2></summary>
-      <div style="margin: auto;">
-        <img height="180px" src="https://ycpedroo-github-readme-stats.vercel.app/api?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&include_all_commits=true">
-        <img height="180px" src="https://ycpedroo-github-readme-stats.vercel.app/api/top-langs?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&layout=compact&custom_title=Languages">
-      </div>
+  <details>
+    <summary><h2><b><i>⚙️My GitHub Stats✨</i></b></h2></summary>
+    <div style="margin: auto;">
+      <img height="180px" src="https://ycpedroo-github-readme-stats.vercel.app/api?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&include_all_commits=true">
+      <img height="180px" src="https://ycpedroo-github-readme-stats.vercel.app/api/top-langs?username=ycpedroo&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&exclude_repo=github-readme-stats">
+    </div>
   </details>
 </div>
 
-
+<hr />
