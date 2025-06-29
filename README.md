@@ -14,7 +14,7 @@
     <summary><h2>📜Codex Arcano</h2></summary> 
     <div align="center">
         <img src="https://cypedroo-github-readme-stats.vercel.app/api?username=cypedroo&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&rank_icon=github">
-        <img src="https://cypedroo-github-readme-stats.vercel.app/api/top-langs/?username=cypedroo&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&layout=donut&count_private=true">
+        <img src="https://cypedroo-github-readme-stats.vercel.app/api/top-langs/?username=cypedroo&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&layout=compact&count_private=true">
     </div>
     <br />
     <div align="center" style="display: inline-block;">
